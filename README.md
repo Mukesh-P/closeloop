@@ -94,7 +94,7 @@ make db                # = exasol install local && exasol slc install PYTHON3
 exasol info            # the password is in ~/.exasol/personal/deployments/default/secrets.json
 
 # 3. Install CloseLoop
-git clone <this repo> && cd closeloop
+git clone https://github.com/Mukesh-P/closeloop.git && cd closeloop
 make setup             # creates .venv and .env
 # edit .env: set EXASOL_DSN / EXASOL_USER / EXASOL_PASSWORD
 # optional: set ANTHROPIC_API_KEY for Claude explanations, letters and free-form questions
