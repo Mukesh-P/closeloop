@@ -1,0 +1,27 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#2F6FD6"
+backgroundColor = "#F7F5F0"
+secondaryBackgroundColor = "#EDE9E0"
+textColor = "#0F1D2A"
+borderColor = "#DED9CE"
+showWidgetBorder = true
+baseRadius = "0.75rem"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap, sans-serif"
+headingFont = "Space Grotesk:https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap, sans-serif"
+headingFontWeights = [700, 700, 600, 600]
+redColor = "#D03B3B"
+orangeColor = "#EC835A"
+yellowColor = "#FAB219"
+blueColor = "#2F6FD6"
+greenColor = "#0CA30C"
+
+[theme.sidebar]
+backgroundColor = "#0F1D2A"
+secondaryBackgroundColor = "#1B2E3E"
+textColor = "#E6EBEF"
+primaryColor = "#F2A93B"
+borderColor = "#2A3F52"
